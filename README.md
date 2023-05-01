@@ -21,11 +21,16 @@ To install and run the environment, follow these steps:
 3. Run the `docker-compose up` command to start the containers.
 4. Open a web browser and navigate to `http://wordpress.local` to access the WordPress site.
 
+### USE PhpMyAdmin
+
+Open a web browser and navigate to `http://localhost:8081/`.
+
 ## Configuration
 
 This environment is pre-configured with default settings, but you can customize it to suit your needs. Some of the available configuration options include:
 
 - Database settings: You can modify the database settings in the `docker-compose.yml` file to use a different database name, username, and password.
+- PhpMyAdmin settings: You can modify the PhpMyAdmin settings in the `docker-compose.yml` file to use a different username, and password.
 - WordPress version: You can modify the WordPress version used by changing the `WORDPRESS_VERSION` environment variable in the `docker-compose.yml` file.
 - Themes and plugins: You can add or remove themes and plugins by modifying the `wordpress/wp-content` directory in the repository.
 
