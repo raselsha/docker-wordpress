@@ -23,7 +23,7 @@ To install and run the environment, follow these steps:
 
 ### USE PhpMyAdmin
 
-Open a web browser and navigate to `http://localhost:8081/`.
+Open a web browser and navigate to `http://localhost:8081/`
 
 ## Configuration
 
