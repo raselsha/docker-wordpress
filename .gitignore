@@ -6,4 +6,5 @@ database/data
 /wordpress/*
 !/wordpress/wp-content/plugins
 /wordpress/wp-content/plugins/*
-!/wordpress/wp-content/plugins/test-plgin
+!/wordpress/wp-content/plugins/MY_SUPER_DUPER_TEMPLATE_directorytour-booking-manager
+!/wordpress/wp-content/plugins/test-plugin
