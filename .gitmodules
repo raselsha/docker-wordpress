@@ -1,3 +1,7 @@
 [submodule "wordpress/wp-content/plugins/test-plugin"]
 	path = wordpress/wp-content/plugins/test-plugin
 	url = https://github.com/raselsha/test-plugin.git
+
+[submodule "wordpress/wp-content/plugins/tour-booking-manager"]
+	path = wordpress/wp-content/plugins/tour-booking-manager
+	url = https://github.com/magepeopleteam/tour-booking-manager.git
