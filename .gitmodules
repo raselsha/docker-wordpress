@@ -23,3 +23,6 @@
 [submodule "wordpress/wp-content/plugins/ttbm-addon-early-bird"]
 	path = wordpress/wp-content/plugins/ttbm-addon-early-bird
 	url = https://github.com/magepeopleteam/ttbm-addon-early-bird.git
+[submodule "wordpress/wp-content/plugins/ttbm-addon-seat-plan"]
+	path = wordpress/wp-content/plugins/ttbm-addon-seat-plan
+	url = https://github.com/magepeopleteam/ttbm-addon-seat-plan.git
