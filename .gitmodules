@@ -20,3 +20,6 @@
 [submodule "wordpress/wp-content/plugins/ttbm-addon-seasonal-price"]
 	path = wordpress/wp-content/plugins/ttbm-addon-seasonal-price
 	url = https://github.com/magepeopleteam/ttbm-addon-seasonal-price.git
+[submodule "wordpress/wp-content/plugins/ttbm-addon-early-bird"]
+	path = wordpress/wp-content/plugins/ttbm-addon-early-bird
+	url = https://github.com/magepeopleteam/ttbm-addon-early-bird.git
