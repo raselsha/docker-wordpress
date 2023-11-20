@@ -2,6 +2,10 @@
 	path = wordpress/wp-content/plugins/test-plugin
 	url = https://github.com/raselsha/test-plugin.git
 
+[submodule "wordpress/wp-content/plugins/plain-slider"]
+	path = wordpress/wp-content/plugins/plain-slider
+	url = https://github.com/raselsha/plain-slider.git
+
 [submodule "wordpress/wp-content/plugins/tour-booking-manager"]
 	path = wordpress/wp-content/plugins/tour-booking-manager
 	url = https://github.com/magepeopleteam/tour-booking-manager.git
@@ -10,6 +14,6 @@
 	path = wordpress/wp-content/plugins/tour-booking-manager-pro
 	url = https://github.com/magepeopleteam/tour-booking-manager-pro.git
 
-[submodule "wordpress/wp-content/plugins/plain-slider"]
-	path = wordpress/wp-content/plugins/plain-slider
-	url = https://github.com/raselsha/plain-slider.git
+[submodule "wordpress/wp-content/plugins/ttbm-addon-group-pricing"]
+	path = wordpress/wp-content/plugins/ttbm-addon-group-pricing
+	url = https://github.com/magepeopleteam/ttbm-addon-group-pricing.git
