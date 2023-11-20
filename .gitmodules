@@ -26,3 +26,6 @@
 [submodule "wordpress/wp-content/plugins/ttbm-addon-seat-plan"]
 	path = wordpress/wp-content/plugins/ttbm-addon-seat-plan
 	url = https://github.com/magepeopleteam/ttbm-addon-seat-plan.git
+[submodule "wordpress/wp-content/plugins/ttbm-addon-backend-order"]
+	path = wordpress/wp-content/plugins/ttbm-addon-backend-order
+	url = https://github.com/magepeopleteam/ttbm-addon-backend-order.git
