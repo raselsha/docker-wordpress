@@ -17,3 +17,6 @@
 [submodule "wordpress/wp-content/plugins/ttbm-addon-group-pricing"]
 	path = wordpress/wp-content/plugins/ttbm-addon-group-pricing
 	url = https://github.com/magepeopleteam/ttbm-addon-group-pricing.git
+[submodule "wordpress/wp-content/plugins/ttbm-addon-seasonal-price"]
+	path = wordpress/wp-content/plugins/ttbm-addon-seasonal-price
+	url = https://github.com/magepeopleteam/ttbm-addon-seasonal-price.git
