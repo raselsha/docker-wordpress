@@ -1,4 +1,4 @@
 database/data
 # wordpress/wp-content/plugins/tour-booking-manager.bak
-.gitmodules
+./.gitmodules
 wordpress
