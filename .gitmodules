@@ -29,3 +29,6 @@
 [submodule "wordpress/wp-content/plugins/ttbm-addon-backend-order"]
 	path = wordpress/wp-content/plugins/ttbm-addon-backend-order
 	url = https://github.com/magepeopleteam/ttbm-addon-backend-order.git
+[submodule "wordpress/wp-content/plugins/bus-ticket-booking-with-seat-reservation"]
+	path = wordpress/wp-content/plugins/bus-ticket-booking-with-seat-reservation
+	url = https://github.com/magepeopleteam/bus-ticket-booking-with-seat-reservation.git
