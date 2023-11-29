@@ -32,4 +32,6 @@
 [submodule "wordpress/wp-content/plugins/bus-ticket-booking-with-seat-reservation"]
 	path = wordpress/wp-content/plugins/bus-ticket-booking-with-seat-reservation
 	url = https://github.com/magepeopleteam/bus-ticket-booking-with-seat-reservation.git
-
+[submodule "wordpress/wp-content/plugins/addon-bus--ticket-booking-with-seat-pro"]
+	path = wordpress/wp-content/plugins/addon-bus--ticket-booking-with-seat-pro
+	url = https://github.com/magepeopleteam/addon-bus--ticket-booking-with-seat-pro.git
