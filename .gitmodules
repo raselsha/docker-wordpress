@@ -38,3 +38,6 @@
 [submodule "wordpress/wp-content/plugins/service-booking-manager"]
 	path = wordpress/wp-content/plugins/service-booking-manager
 	url = https://github.com/magepeopleteam/service-booking-manager.git
+[submodule "wordpress/wp-content/plugins/booking-and-rental-manager-for-woocommerce"]
+	path = wordpress/wp-content/plugins/booking-and-rental-manager-for-woocommerce
+	url = https://github.com/magepeopleteam/booking-and-rental-manager-for-woocommerce.git
