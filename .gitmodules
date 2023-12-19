@@ -47,3 +47,6 @@
 [submodule "wordpress/wp-content/plugins/booking-and-rental-manager-discount-over-x-days"]
 	path = wordpress/wp-content/plugins/booking-and-rental-manager-discount-over-x-days
 	url = https://github.com/magepeopleteam/booking-and-rental-manager-discount-over-x-days.git
+[submodule "wordpress/wp-content/plugins/booking-and-rental-manager-for-woocommerce-pro"]
+	path = wordpress/wp-content/plugins/booking-and-rental-manager-for-woocommerce-pro
+	url = https://github.com/magepeopleteam/booking-and-rental-manager-for-woocommerce-pro.git
