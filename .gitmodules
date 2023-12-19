@@ -50,3 +50,6 @@
 [submodule "wordpress/wp-content/plugins/booking-and-rental-manager-for-woocommerce-pro"]
 	path = wordpress/wp-content/plugins/booking-and-rental-manager-for-woocommerce-pro
 	url = https://github.com/magepeopleteam/booking-and-rental-manager-for-woocommerce-pro.git
+[submodule "wordpress/wp-content/plugins/booking-and-rental-manager-min-max-booking-day"]
+	path = wordpress/wp-content/plugins/booking-and-rental-manager-min-max-booking-day
+	url = https://github.com/magepeopleteam/booking-and-rental-manager-min-max-booking-day.git
