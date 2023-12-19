@@ -44,3 +44,6 @@
 [submodule "wordpress/wp-content/plugins/booking-and-rental-manager-seasonal-pricing"]
 	path = wordpress/wp-content/plugins/booking-and-rental-manager-seasonal-pricing
 	url = https://github.com/magepeopleteam/booking-and-rental-manager-seasonal-pricing.git
+[submodule "wordpress/wp-content/plugins/booking-and-rental-manager-discount-over-x-days"]
+	path = wordpress/wp-content/plugins/booking-and-rental-manager-discount-over-x-days
+	url = https://github.com/magepeopleteam/booking-and-rental-manager-discount-over-x-days.git
