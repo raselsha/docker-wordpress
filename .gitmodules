@@ -10,7 +10,6 @@
 	path = wordpress/wp-content/plugins/tour-booking-manager
 	url = https://github.com/magepeopleteam/tour-booking-manager.git
 
-<<<<<<< HEAD
 [submodule "wordpress/wp-content/plugins/tour-booking-manager-pro"]
 	path = wordpress/wp-content/plugins/tour-booking-manager-pro
 	url = https://github.com/magepeopleteam/tour-booking-manager-pro.git
@@ -54,11 +53,6 @@
 [submodule "wordpress/wp-content/plugins/booking-and-rental-manager-min-max-booking-day"]
 	path = wordpress/wp-content/plugins/booking-and-rental-manager-min-max-booking-day
 	url = https://github.com/magepeopleteam/booking-and-rental-manager-min-max-booking-day.git
-=======
-[submodule "wordpress/wp-content/plugins/plain-slider"]
-	path = wordpress/wp-content/plugins/plain-slider
-	url = https://github.com/raselsha/plain-slider.git
->>>>>>> 2dab75c (new module added)
 [submodule "wordpress/wp-content/plugins/newsletter-publisher"]
 	path = wordpress/wp-content/plugins/newsletter-publisher
 	url = https://github.com/raselsha/newsletter-publisher.git
