@@ -53,9 +53,9 @@
 [submodule "wordpress/wp-content/plugins/booking-and-rental-manager-min-max-booking-day"]
 	path = wordpress/wp-content/plugins/booking-and-rental-manager-min-max-booking-day
 	url = https://github.com/magepeopleteam/booking-and-rental-manager-min-max-booking-day.git
-[submodule "wordpress/wp-content/plugins/newsletter-publisher"]
-	path = wordpress/wp-content/plugins/newsletter-publisher
-	url = https://github.com/raselsha/newsletter-publisher.git
 [submodule "wordpress/wp-content/plugins/backend-order-for-booking-and-rental"]
 	path = wordpress/wp-content/plugins/backend-order-for-booking-and-rental
 	url = https://github.com/magepeopleteam/backend-order-for-booking-and-rental.git
+[submodule "wordpress/wp-content/plugins/newsletter-publisher"]
+	path = wordpress/wp-content/plugins/newsletter-publisher
+	url = https://github.com/raselsha/newsletter-publisher.git
