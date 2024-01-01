@@ -60,3 +60,6 @@
 [submodule "wordpress/wp-content/plugins/newsletter-download"]
 	path = wordpress/wp-content/plugins/newsletter-download
 	url = https://github.com/raselsha/newsletter-download.git
+[submodule "wordpress/wp-content/plugins/pdf-download"]
+	path = wordpress/wp-content/plugins/pdf-download
+	url = https://github.com/raselsha/pdf-download.git
