@@ -57,3 +57,6 @@
 	path = wordpress/wp-content/plugins/backend-order-for-booking-and-rental
 	url = https://github.com/magepeopleteam/backend-order-for-booking-and-rental.git
 
+[submodule "wordpress/wp-content/plugins/newsletter-download"]
+	path = wordpress/wp-content/plugins/newsletter-download
+	url = https://github.com/raselsha/newsletter-download.git
