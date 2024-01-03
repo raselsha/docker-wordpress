@@ -63,3 +63,6 @@
 [submodule "wordpress/wp-content/plugins/pdf-download"]
 	path = wordpress/wp-content/plugins/pdf-download
 	url = https://github.com/raselsha/pdf-download.git
+[submodule "wordpress/wp-content/plugins/Ecab-Taxi-Booking-Manager"]
+	path = wordpress/wp-content/plugins/Ecab-Taxi-Booking-Manager
+	url = https://github.com/magepeopleteam/Ecab-Taxi-Booking-Manager.git
