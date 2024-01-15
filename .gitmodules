@@ -66,3 +66,6 @@
 [submodule "wordpress/wp-content/plugins/Ecab-Taxi-Booking-Manager"]
 	path = wordpress/wp-content/plugins/Ecab-Taxi-Booking-Manager
 	url = https://github.com/magepeopleteam/Ecab-Taxi-Booking-Manager.git
+[submodule "wordpress/wp-content/plugins/bus-marketplace-addon"]
+	path = wordpress/wp-content/plugins/bus-marketplace-addon
+	url = https://github.com/magepeopleteam/bus-marketplace-addon.git
