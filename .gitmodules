@@ -69,3 +69,6 @@
 [submodule "wordpress/wp-content/plugins/bus-marketplace-addon"]
 	path = wordpress/wp-content/plugins/bus-marketplace-addon
 	url = https://github.com/magepeopleteam/bus-marketplace-addon.git
+[submodule "wordpress/wp-content/themes/bahon-bus-theme"]
+	path = wordpress/wp-content/themes/bahon-bus-theme
+	url = https://github.com/magepeopleteam/bahon-bus-theme.git
