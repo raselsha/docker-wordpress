@@ -19,11 +19,11 @@ To install and run the environment, follow these steps:
 2. Add `wordpress.local` in your hosts File
 2. Navigate to the cloned repository in your terminal.
 3. Run the `docker-compose up` command to start the containers.
-4. Open a web browser and navigate to `http://wordpress.local` to access the WordPress site.
+4. Open a web browser and navigate to `http://localhost` or `http://wordpress.local` to access the WordPress site.
 
 ### USE PhpMyAdmin
 
-Open a web browser and navigate to `http://localhost:8081/`
+Open a web browser and navigate to `http://localhost:8080/`
 
 ## Configuration
 
