@@ -1,3 +1,6 @@
 [submodule "wordpress/wp-content/plugins/test-plugin"]
 	path = wordpress/wp-content/plugins/test-plugin
 	url = https://github.com/raselsha/test-plugin.git
+[submodule "wordpress/wp-content/plugins/bus-booking-manager"]
+	path = wordpress/wp-content/plugins/bus-booking-manager
+	url = https://github.com/magepeopleteam/bus-booking-manager.git
